@@ -1,0 +1,124 @@
+
+body {
+    margin: 0;
+    text-align: center;
+}
+.Top {
+    background-color: #CEEDC7;
+    color: #66BFBF;
+}
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+    line-height: 2;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    color: #11999E;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    font-size: 20px;
+    font-weight: bold;
+}
+.top-cloud {
+    position: relative;
+    left: 250px;
+}
+.bottom-cloud {
+    position: absolute;
+}
+.Aditya {
+    display: inline-block;
+    overflow: hidden;
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+a {
+    color: #11999E;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.skills {
+    line-height: 2;
+    margin-bottom: 200px;
+    margin-top: 50px;
+}
+.dev {
+    width: 25%;
+    float: left;
+    padding: 30px;
+}
+.foodie {
+    width: 25%;
+    float: right;
+    padding: 30px;
+}
+.contact-me {
+    margin: 100px auto 100px auto;
+}
+hr {
+    
+    border-style: dotted none none;
+    border-color: gray;
+    border-width: 5px;
+    height: 3px;
+    width: 5%;
+    overflow: visible;
+}
+.profile {
+    margin: 100px auto 100px auto;
+}
+.bottom-container {
+    background-color: #66BFBF;
+    line-height: 3;
+}
+.creds {
+    margin: 0;
+}
+.footer-link {
+    margin: 50px;
+}
+.btn {
+    background: #66BFBF;
+    background-image: -webkit-linear-gradient(top, #66BFBF, #0c8787);
+    background-image: -moz-linear-gradient(top, #66BFBF, #0c8787);
+    background-image: -ms-linear-gradient(top, #66BFBF, #0c8787);
+    background-image: -o-linear-gradient(top, #66BFBF, #0c8787);
+    background-image: linear-gradient(to bottom, #66BFBF, #0c8787);
+    -webkit-border-radius: 14;
+    -moz-border-radius: 14;
+    border-radius: 14px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+}
+.above-btn {
+    margin-bottom: 50px;
+}
+.my-desc {
+    font-size: 20px;
+}
+.dexh2 {
+    font-size: 40px;
+}
